@@ -1,5 +1,5 @@
 # AppIcon Generator for macOS
-
+![Screenshot 2025-03-29 at 14 59 05](https://github.com/user-attachments/assets/f0431602-9cc5-4360-8e17-fe4868ac8e98)
 This macOS app automates the generation of app icons in multiple sizes for use in Xcode. Simply drag and drop a source image, and the app will generate the required icon sizes while preserving transparency.
 
 ## Features
