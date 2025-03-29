@@ -34,3 +34,4 @@ The app creates a folder with:
 ## License
 This project is open-source and available under the MIT License.
 
+### Completed app can be download here, https://github.com/wmwoon/appIconGenerator_macOS/discussions/1#discussion-8143316
